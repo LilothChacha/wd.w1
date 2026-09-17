@@ -1,0 +1,98 @@
+
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+/* ID selector */
+#page-header {
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Element selector */
+h1 {
+    margin: 0 0 10px;
+    font-size: 32px;
+}
+
+/* Element selector */
+h2 {
+    color: #1e293b;
+    margin-top: 0;
+}
+
+/* Class selector */
+.expense-section {
+    background-color: white;
+    padding: 25px;
+    max-width: 600px;
+    margin: 0 auto 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Class selector */
+.input-group {
+    margin-bottom: 15px;
+}
+
+/* Element selector */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Element selector */
+input {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Element selector */
+button {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* ID selector */
+#expenses-placeholder {
+    background-color: #e0f2fe;
+    padding: 25px;
+    max-width: 600px;
+    margin: 0 auto 20px;
+    border-radius: 10px;
+    border: 1px solid #7dd3fc;
+}
+
+/* Element selector */
+#expenses-placeholder p {
+    color: #475569;
+    font-style: italic;
+}
+
+/* Element selector */
+footer {
+    text-align: center;
+    color: #666;
+    padding: 15px;
+}
+
